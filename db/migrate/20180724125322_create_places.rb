@@ -6,6 +6,7 @@ class CreatePlaces < ActiveRecord::Migration[5.1]
       t.decimal :lat
       t.decimal :lng
       t.integer :pop
+      t.string :country
       t.string :iso2
       t.string :iso3
       t.string :province
