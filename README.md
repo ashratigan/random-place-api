@@ -16,4 +16,4 @@ The back end is hosted on heroku at: https://desolate-plateau-52113.herokuapp.co
 I am hoping to allow users to sign up and sign in to save places.
 
 ## ERD
-![Random Place ERD](https://imgur.com/a/98ei5gP)
+![Random Place ERD](https://i.imgur.com/7FePsC5.jpg)
