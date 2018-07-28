@@ -4,7 +4,7 @@ This is the back end for an application that randomly generates a city on Earth 
 
 ## Related links
 - [Deployed Site](https://ashratigan.github.io/random-place-client/ "Bucket List Deployed Site")
-- [Random Place Back End](https://github.com/ashratigan/random-place-client "Bucket List Back End")
+- [Random Place Front End](https://github.com/ashratigan/random-place-client "Bucket List Back End")
 - [Deployed Back End](https://desolate-plateau-52113.herokuapp.com/ "Bucket List Deployed Back End")
 
 ## Technologies used
